@@ -1,7 +1,3 @@
-# LHD Init
-
-1. You
-2. Me
 
 
 
