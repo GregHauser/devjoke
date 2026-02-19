@@ -1,3 +1,10 @@
+# LHD Init
+
+1. You
+2. Me
+
+
+
 # Dev Joke
 
 #### Send me a PR if you know a good Dev Joke.
