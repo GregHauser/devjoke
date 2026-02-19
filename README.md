@@ -1,3 +1,8 @@
+# LHD Init
+
+1. You
+2. Me
+
 
 
 
@@ -1500,4 +1505,12 @@ Programmer (noun.) - A person who fixed a problem that you don't know you have, 
 ***
 Software and cathedrals are much the same — first we build them, then we pray.
 ***
+
+#DevJoke
+
+Why do Java programmers wear glasses?
+Because they don't C#!
+
+***
+
 
